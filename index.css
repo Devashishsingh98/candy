@@ -1,0 +1,33 @@
+body{
+    background-color: #f5d9d5;
+    font-family: "numito", sans-serif;
+}
+#mainnavbar{
+    font-size: 1.rem;
+    font-weight: 100:
+}
+#mainnavbar .nav-link{
+    color: white;
+}
+#mainnavbar .nav-link:hover{
+    color: #ea1c2c;
+}
+.navbar-dark .navbar-brand{
+    color: #ea1c2c;
+}
+h2{
+    color: #ea1c2c;
+    font-size: 2.5rem;
+    font-weight: 100;
+}
+section p{
+    color: #f498b8;
+    font-size: small;
+    line-height: 2.5rem;
+}
+.slash{
+    color: #ea1c2c;
+}
+.nabar.scrolled{
+    background: rgba(222, 192, 0);
+}
